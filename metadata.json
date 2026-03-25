@@ -1,0 +1,7 @@
+{
+  "name": "GlowGuide AR Makeup Tutor",
+  "description": "An augmented reality makeup tutorial app that overlays precise guides on your face and walks you through professional looks step-by-step.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
